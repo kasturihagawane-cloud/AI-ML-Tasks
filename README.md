@@ -6,7 +6,7 @@ pandas, scikit-learn, and matplotlib — fully runnable in Google Colab.
 
 ## Tasks
 - [x] Task 1: Load and Explore the Data
-- [ ] Task 2:
+- [x] Task 2:
 - [ ] Task 3:
 - [ ] Task 4:
 - [ ] Task 5:
