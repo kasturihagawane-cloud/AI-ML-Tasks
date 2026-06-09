@@ -1,5 +1,4 @@
 # AI-ML-Tasks
-# Student Performance Predictor — AIML Internship
 
 A beginner-friendly machine learning project that predicts a student's exam score
 based on study hours. Built as part of an AIML internship task series using Python,
