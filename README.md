@@ -7,8 +7,8 @@ pandas, scikit-learn, and matplotlib — fully runnable in Google Colab.
 ## Tasks
 - [x] Task 1: Load and Explore the Data
 - [x] Task 2: Train Linear Regression Model
-- [x] Task 3:
-- [ ] Task 4:
+- [x] Task 3: Evaluate and Make Predictions
+- [x] Task 4: Prepare the Iris Data (Train/Test Split)
 - [ ] Task 5:
 - [ ] Task 6:
 
